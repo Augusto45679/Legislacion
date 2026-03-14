@@ -176,7 +176,7 @@ No requieren intervención judicial:
 ## FIN DE LA EXISTENCIA DE LA PERSONA HUMANA
 
 La existencia de la persona humana termina con la **muerte**.
-La comprobación de la muerte queda sujeta a estándares médicos. Si no hay cadáver, no se puede establecer la muerte.
+La comprobación de la muerte queda sujeta a estándares médicos, además del reconocimiento del cadaver por testigos o peritos. Si no hay cadáver, no se puede establecer la muerte.
 
 ### AUSENCIA
 

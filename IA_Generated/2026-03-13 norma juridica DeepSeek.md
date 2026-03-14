@@ -35,12 +35,12 @@ Regulan la conducta humana y se dividen en dos grandes grupos:
 
 ## 2. Tipos de normas del **DEBER SER**
 
-| Norma | Definición | Características | Sanción | Ejemplo |
-|-------|------------|-----------------|---------|---------|
-| **Religiosas** | Relación del hombre con un ser superior, revelada. | - | - | Mandamientos |
-| **Morales** | Buscan la perfección individual; derivan de la naturaleza humana. | Autónomas, unilaterales, requieren íntima adhesión. | Interna (remordimiento) | No agredir al semejante (aunque no se concrete) |
-| **Sociales** | Regulan la convivencia; dictadas por la comunidad. | Heterónomas, no escritas, varían con el tiempo y lugar. | Repudio social | Vestir de etiqueta, saludos, modales |
-| **Jurídicas** | Rigen obligatoriamente la vida en sociedad; dictadas por autoridad competente. | Bilaterales, heterónomas, no requieren adhesión interna. | Coerción, sanción y coacción | Leyes, códigos, ordenanzas |
+| Norma          | Definición                                                                     | Características                                          | Sanción                      | Ejemplo                                         |
+| -------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------- | ---------------------------- | ----------------------------------------------- |
+| **Religiosas** | Relación del hombre con un ser superior, revelada.                             | -                                                        | -                            | Mandamientos                                    |
+| **Morales**    | Buscan la perfección individual; derivan de la naturaleza humana.              | Autónomas, unilaterales, requieren íntima adhesión.      | Interna (remordimiento)      | No agredir al semejante (aunque no se concrete) |
+| **Sociales**   | Regulan la convivencia; dictadas por la comunidad.                             | Heterónomas, no escritas, varían con el tiempo y lugar.  | Repudio social               | Vestir de etiqueta, saludos, modales            |
+| **Jurídicas**  | Rigen obligatoriamente la vida en sociedad; dictadas por autoridad competente. | Bilaterales, heterónomas, no requieren adhesión interna. | Coerción, sanción y coacción | Leyes, códigos, ordenanzas                      |
 
 > **Nota:** En la antigüedad todas estas normas estaban confundidas; hoy se distinguen claramente en sociedades avanzadas.
 

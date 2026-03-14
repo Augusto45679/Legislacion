@@ -1,4 +1,4 @@
-	# CLASES DE NORMAS
+# CLASES DE NORMAS
 
 ## 1. Normas que rigen la actividad humana
 
@@ -14,7 +14,7 @@ Podemos también decir que la ley natural es un juicio mediante el cual se enunc
 
 ### b) Normas del mundo de la cultura
 
-Las leyes de la cultura rigen el comportamiento humano, ya sea como actividad para obtener un fin fuera del sujeto, o la conducta u obrar de la persona independiente del resultado que obtenga por efecto de esta.
+Las ==**leyes de la cultura** rigen el comportamiento humano, ya sea como actividad para obtener un fin fuera del sujeto, o la conducta u obrar de la persona independiente del resultado que obtenga por efecto de esta==.
 
 Tomando como sustento las leyes que rigen la naturaleza, el hombre ha elaborado otras que tienen como base y presupuesto aquellas y están destinadas a regir el comportamiento del hombre y sus actividades. Estas son las normas que rigen el mundo de la cultura y tienen por objeto reglar la conducta humana. En este caso nos referimos a la ley como relación reguladora de los actos del hombre.
 
@@ -26,7 +26,7 @@ Según el ámbito a que estén dirigidas, nos hallamos dentro de las **leyes del
 
 #### Normas del SER
 
-En el reino de la cultura, cuando los actos humanos son analizados por el resultado que se quiere obtener, estamos en la esfera de las normas del **SER**. Comprende todo lo que denominamos **ARTE**. El arte, en su acepción más extensa, comprende las ciencias prácticas o teórico-prácticas: son las que nos enseñan cómo actuar o conducirnos para obtener el resultado al que aspiramos. Para alcanzar esos objetivos, debemos atenernos a las **reglas técnicas**. Estas, podríamos decir, no son verdaderas normas o leyes, puesto que no se imponen a la conducta. Si bien su cumplimiento no es obligatorio, la consecuencia de apartarse de ellas es que no se logra el fin propuesto. Nos enseñan el **modo de HACER**. Por ejemplo, las que conforman la ciencia de la medicina, ingeniería, educación, etc.
+En el reino de la cultura, *cuando los actos humanos son analizados por el resultado que se quiere obtener, estamos en la esfera de las normas del* **SER**. ==Comprende todo lo que denominamos **ARTE**==. El arte, en su acepción más extensa, comprende las ciencias prácticas o teórico-prácticas: *son las que nos enseñan cómo actuar o conducirnos para obtener el resultado al que aspiramos. Para alcanzar esos objetivos, debemos atenernos a las* ==**reglas técnicas**==. Estas, podríamos decir, no son verdaderas normas o leyes, puesto que no se imponen a la conducta. Si bien su cumplimiento no es obligatorio, la consecuencia de apartarse de ellas es que no se logra el fin propuesto. Nos enseñan el ==**modo de HACER**==. Por ejemplo, las que conforman la ciencia de la medicina, ingeniería, educación, etc.
 
 Hay que diferenciar las artes en sentido estricto de las bellas artes:
 - Las **primeras** buscan un fin útil, sin excluir necesariamente la belleza (ingeniería, arquitectura, diseño).
@@ -36,7 +36,7 @@ Hay que diferenciar las artes en sentido estricto de las bellas artes:
 
 Cuando los actos humanos son considerados en sí mismos, sin tener en cuenta su resultado, sino la perfección misma del hombre que actúa, nos hallamos en el campo de la **ética**. Las ciencias que la estudian ==son ciencias **NORMATIVAS** porque establecen normas o reglas de conducta, **OBLIGATORIAS**, dirigidas a imponer conductas determinadas al hombre, para obtener un fin que apunta siempre al pensamiento o al obrar del sujeto==. Son a su vez disposiciones **IMPUTATIVAS** porque imputan una acción al sujeto y, según se califique la misma, le establecerán determinada **SANCIÓN O PENA**.
 
-Todas estas normas presuponen una cualidad del hombre que lo distingue de todos los seres vivos: el **LIBRE ALBEDRÍO**. El hombre durante toda su vida se halla inmerso en una sucesión de elecciones o decisiones que debe adoptar dentro de un margen de libertad. Y aun debemos considerar que también es libre de decidir apartarse de las normas de conducta existentes, violándolas. Solo si tenemos en cuenta que el ser humano es esencialmente libre y tiene la posibilidad con su inteligencia y voluntad de elegir la conducta que quiere seguir, podemos hablar de normas de conducta o del **DEBER SER**. Les llamamos así porque no indican en su enunciado lo que **ES** (por ejemplo, “la combinación del color azul con el amarillo **ES** verde”), sino lo que **DEBE SER** (por ejemplo, “el hombre no debe matar”, “el ser humano debe ser honrado”, “el niño debe ser protegido”).
+Todas estas normas presuponen una cualidad del hombre que lo distingue de todos los seres vivos: el ==**LIBRE ALBEDRÍO**==. El hombre durante toda su vida se halla inmerso en una sucesión de elecciones o decisiones que debe adoptar dentro de un margen de libertad. Y aun debemos considerar que también es libre de decidir apartarse de las normas de conducta existentes, violándolas. ==*Solo si tenemos en cuenta que el ser humano es esencialmente libre y tiene la posibilidad con su inteligencia y voluntad de elegir la conducta que quiere seguir, podemos hablar de normas de conducta o del* **DEBER SER**==. Les llamamos así porque no indican en su enunciado lo que **ES** (por ejemplo, “la combinación del color azul con el amarillo **ES** verde”), sino lo que **DEBE SER** (por ejemplo, “el hombre no debe matar”, “el ser humano debe ser honrado”, “el niño debe ser protegido”).
 
 Con independencia de lo normado, el hombre, en uso de su **LIBRE ALBEDRÍO**, decide su conducta frente a sí mismo o frente a sus semejantes. Estas leyes las podemos definir como “*estructuras lógicas mediante las cuales se prescribe determinado modo de actuar o de pensar*”.
 
@@ -47,8 +47,10 @@ En la antigüedad, las normas religiosas, morales, sociales y jurídicas estaban
 ---
 
 ### 1. Normas religiosas
-Establecen las relaciones entre un ser superior y los hombres. Se conocen estas normas a través de la revelación. Podemos definirlas como el precepto obligatorio que regula la relación del hombre con la divinidad.
 
+==Establecen las relaciones entre un ser superior y los hombres==. Se conocen estas normas a través de la **revelación**. Podemos definirlas como el precepto obligatorio que regula la relación del hombre con la divinidad.
+
+> *precepto* : "Mandato u orden que el superior hace observar y guardar al inferior o súbdito."
 ### 2. Normas éticas y morales
 Estas disposiciones establecen cómo debe ser el obrar humano para que con su accionar tienda a la perfección de sí mismo. ==*La ley moral deriva de la naturaleza humana, es conocida por el hombre por la razón y su obligatoriedad le es impuesta de un modo inmediato a través de una especie de revelación interna que denominamos **EL DEBER***==. Estas normas indican cómo y con qué intención se debe obrar. Los principios tienen valor universal y son inmutables.
 
@@ -92,24 +94,24 @@ Más allá de los principios que sostienen esas corrientes, nosotros afirmamos q
 
 Con la sanción de la **ley 17.711**, el derecho positivo argentino, en la rama del Derecho Civil, se vio imbuido de normas con un fuerte contenido moral. Ejemplo de ello es el nuevo artículo 1071 cuando dice que habrá abuso del derecho cuando *“... se excedan los límites impuestos por la buena fe, la moral y las buenas costumbres”*; el artículo 1189 cuando dice que los contratos deben celebrarse, interpretarse y ejecutarse de buena fe; el artículo 954 cuando dice que habrá lesión cuando una de las partes se aproveche de la necesidad, ligereza o inexperiencia de la otra.
 
-### 3. Diferencia entre las Normas Jurídicas y las Normas Morales
+### 3. Diferencia entre las ==Normas Jurídicas== y las ==Normas Morales==
 
-1. **Ámbito de valoración**: *tanto en moral como en derecho las normas regulan la conducta humana, pero la Moral valora la conducta en sí misma, en cambio el Derecho la valora desde un punto de vista relativo, en cuanto al alcance que tenga para los demás.*
-2. **Finalidad**: La moral tiende al bien individual, en tanto que el derecho aspira al bien común.
-3. **Sujetos**: En las jurídicas hay dos sujetos (**bilaterales**), en las morales uno (**unilaterales**).
-4. **Origen de la obligatoriedad**: Las jurídicas son **heterónomas** (impuestas por otro sujeto). Las morales son **autónomas** (impuestas por el mismo obligado).
-5. **Cumplimiento**: En las jurídicas basta con el cumplimiento externo de la norma; en las morales se requiere íntima adhesión.
-6. **Correlatividad**: Al derecho jurídico se contrapone el deber jurídico, mientras que no hay derecho moral frente a las obligaciones de esta naturaleza. El deber moral es solo deber, y no tiene un correlativo derecho frente a él: nadie tiene el derecho moral de exigir determinada conducta al sujeto transgresor. En cambio, frente al deudor de una obligación legal siempre existe un acreedor que tiene el derecho de exigir su cumplimiento.
+1. ==**Ámbito de valoración**==: *tanto en moral como en derecho **las normas regulan la conducta humana**, pero ==la Moral valora la conducta en sí misma==, en cambio el Derecho la valora desde un punto de vista relativo, en cuanto al alcance que tenga para los demás.*
+2. ==**Finalidad**==: La moral tiende al bien individual, en tanto que el derecho aspira al bien común.
+3. ==**Sujetos**==: En las jurídicas hay dos sujetos (**bilaterales**), en las morales uno (**unilaterales**).
+4. ==**Origen de la obligatoriedad**==: Las jurídicas son **heterónomas** (impuestas por otro sujeto). Las morales son **autónomas** (impuestas por el mismo obligado).
+5. ==**Cumplimiento**:== En las jurídicas basta con el cumplimiento externo de la norma; en las morales se requiere *íntima adhesión*.
+6. ==**Correlatividad**==: Al derecho jurídico se contrapone el deber jurídico, mientras que no hay derecho moral frente a las obligaciones de esta naturaleza. El *deber moral es solo deber, y no tiene un correlativo derecho frente a él: nadie tiene el derecho moral de exigir determinada conducta al sujeto transgresor*. En cambio, ==frente al deudor de una obligación legal siempre existe un acreedor que tiene el derecho de exigir su cumplimiento==.
 
 ### 4. Elementos de las Normas Jurídicas
 
 Los elementos de las normas jurídicas son:
 
-**a) Coerción**: Es fundamentalmente la presión que se ejerce sobre el libre albedrío para obligar a cada uno a cumplir su deber, sea este moral, jurídico o social. La coerción impulsa a actuar en determinado sentido y es siempre de orden interno, psicológico, puesto que incide en la conciencia o en la razón. La coerción está presente en todas las normas del Deber Ser, solo que varía de naturaleza según la clase de norma a que se refiera. En el caso de las normas jurídicas, se manifiesta por el temor al castigo y a las consecuencias perjudiciales que puede acarrear el incumplimiento.
+**a) ==Coerción==**: Es fundamentalmente *la presión que se ejerce sobre el libre albedrío para obligar a cada uno a cumplir su deber, sea este moral, jurídico o social*. La coerción impulsa a actuar en determinado sentido y es siempre de orden interno, psicológico, puesto que incide en la conciencia o en la razón. La coerción está presente en todas las normas del **Deber Ser**, solo que varía de naturaleza según la clase de norma a que se refiera. En el caso de las normas jurídicas, se manifiesta por el temor al castigo y a las consecuencias perjudiciales que puede acarrear el incumplimiento.
 
-**b) Sanción**: Es la pena a aplicar en caso de incumplimiento. El hombre la conoce o la intuye, y sabe que le será aplicada ante la violación de la norma.
+**b) ==Sanción==**: Es la pena a aplicar en caso de incumplimiento. El hombre la conoce o la intuye, y sabe que le será aplicada ante la violación de la norma.
 
-**c) Coacción**: Es el cumplimiento forzado a que se puede hacer pasible el infractor, si no acata voluntariamente la sanción. La coacción está implícita en la fuerza o poder del Estado para hacer cumplir las leyes.
+**c) ==Coacción==**: *Es el cumplimiento forzado a que se puede hacer pasible el infractor, si no acata voluntariamente la sanción*. La coacción está implícita en la fuerza o poder del Estado para hacer cumplir las leyes.
 
 Estos tres elementos son **sucesivos**:
 1. La coerción reside en la conciencia y presiona la voluntad del sujeto.
@@ -122,28 +124,28 @@ El cumplimiento forzado de la pena o sanción puede estar dirigido a lograr el e
 
 ## III. CLASIFICACIÓN DEL DERECHO
 
-### 1. El Derecho Natural y el Derecho Positivo
+### 1. El ==Derecho Natural== y el ==Derecho Positivo==
 
 El **Derecho Natural** se entiende que es aquel que surge de la naturaleza humana y el hombre lo conoce por la razón. Por esa circunstancia se considera **inmutable** y **universal**. El derecho natural solo fija los grandes principios, las líneas rectoras de la organización social, tendiendo a alcanzar la justicia. Según Santo Tomás de Aquino, el derecho natural es *la participación de la ley eterna en la criatura racional y lo conocemos con la luz de la razón natural por la que discernimos lo que es bueno y malo*.
 
-El **Derecho Positivo** se denomina así al conjunto de leyes y disposiciones vigentes en un país en un momento determinado de la historia.
+==El **Derecho Positivo** se denomina así al conjunto de leyes y disposiciones vigentes en un país en un momento determinado de la historia.==
 
 Son normas del **Derecho Natural** las que protegen la vida de los individuos, las que castigan la violación al derecho de propiedad, las que defienden la integridad física del individuo, el trabajo, el derecho a un techo, a acceder a los medios que le permitan mantener o recuperar la salud, etc.
 
-Como ejemplos de normas del **Derecho Positivo** en la Argentina podemos citar: la Constitución, la ley de tránsito, la ley de Contabilidad Nro. 3799 de la provincia de Mendoza, la ley de procedimientos administrativos de Mendoza Nro. 3909, el Decreto reglamentario de la Ley de Obras Públicas de Mendoza Nro. 313/81, resoluciones, ordenanzas o edictos vigentes, etc.
+Como ejemplos de normas del ==**Derecho Positivo**== en la Argentina podemos citar: *la Constitución, la ley de tránsito, la ley de Contabilidad Nro. 3799 de la provincia de Mendoza, la ley de procedimientos administrativos de Mendoza Nro. 3909, el Decreto reglamentario de la Ley de Obras Públicas de Mendoza Nro. 313/81, resoluciones, ordenanzas o edictos vigentes*, etc.
 
-### 2. Derecho Objetivo y Derecho Subjetivo
+### 2. ==Derecho Objetivo y Derecho Subjetivo==
 
-El **derecho objetivo** es el ordenamiento jurídico existente. Observamos que no necesariamente debe ser vigente la norma cuando la analizamos desde esta clasificación. Nos estamos refiriendo aquí a la **ley, en sentido amplio**, que establece un precepto y crea genéricamente derechos u obligaciones. Ejemplo: el derecho a trabajar, a enseñar y aprender contenidos en los artículos 14 bis y 14 de nuestra Constitución Nacional.
+==El **derecho objetivo** es el ordenamiento jurídico existente==. Observamos que no necesariamente debe ser vigente la norma cuando la analizamos desde esta clasificación. Nos estamos refiriendo aquí a la **ley, en sentido amplio**, que establece un precepto y crea genéricamente derechos u obligaciones. *Ejemplo: el derecho a trabajar, a enseñar y aprender contenidos en los artículos 14 bis y 14 de nuestra Constitución Nacional.*
 
-El **derecho subjetivo** es el derecho o facultad del individuo de obrar de determinada manera o de exigir de otro una conducta dada. Se habla así del derecho que tengo a cobrar una deuda, a la vida, a trabajar, a enseñar, a aprender, a mi propiedad, etc. En este caso no pongo la tónica en la norma sino en las facultades o derechos que **yo** tengo como sujeto, por hallarme comprendido en el caso contemplado en el precepto legal (norma en sentido objetivo).
+==El **derecho subjetivo** es el derecho o facultad del individuo de obrar de determinada manera o de exigir de otro una conducta dada. Se habla así del derecho que tengo a cobrar una deuda, a la vida, a trabajar, a enseñar, a aprender, a mi propiedad, etc.== En este caso no pongo la tónica en la norma sino en las facultades o derechos que **yo** tengo como sujeto, por hallarme comprendido en el caso contemplado en el precepto legal (norma en sentido objetivo).
 
 Ejemplo: el derecho a enseñar y aprender, artículo 14 de la Constitución Nacional (derecho objetivo). Yo tengo derecho a enseñar y aprender (derecho subjetivo que nace del artículo 14 de la Constitución Nacional).
 
-Los derechos subjetivos los podemos dividir a su vez en:
+**Los derechos subjetivos los podemos dividir a su vez en:**
 
-- **ABSOLUTOS**: cuando el sujeto obligado es **toda la sociedad**. Por ej., el derecho a la vida, a la libertad y los derechos reales (ej. el derecho de propiedad, el derecho de hipoteca sobre la casa de mi deudor), en los cuales toda la comunidad debe respetar esos derechos.
-- **RELATIVOS**: en los cuales existe **uno o más sujetos obligados**. Por ejemplo, el derecho a cobrar una deuda: el sujeto obligado va a ser siempre el deudor o sus sucesores.
+- ==**ABSOLUTOS**==: cuando el sujeto obligado es **toda la sociedad**. Por ej., el derecho a la vida, a la libertad y los derechos reales (ej. el derecho de propiedad, el derecho de hipoteca sobre la casa de mi deudor), en los cuales toda la comunidad debe respetar esos derechos.
+- ==**RELATIVOS**==: en los cuales existe **uno o más sujetos obligados**. Por ejemplo, el derecho a cobrar una deuda: el sujeto obligado va a ser siempre el deudor o sus sucesores.
 
 El derecho subjetivo, como facultad de cada uno para obrar de cierto modo frente a los demás, comprende los siguientes casos:
 
@@ -158,7 +160,7 @@ El derecho subjetivo, como facultad de cada uno para obrar de cierto modo frente
 - Ejercer los derechos de carácter público.  
   *Ej.* Elegir las autoridades, el derecho a que me elijan autoridad, etc.
 
-### 3. El Derecho Público y el Derecho Privado
+### 3. ==El Derecho Público y el Derecho Privado==
 
 Todas las normas de derecho se agrupan en dos grandes especies centrales que tienen principios diferentes que comparten las especialidades que las componen. Estos son el **Derecho Público** y el **Derecho Privado**.
 
@@ -187,7 +189,7 @@ Así, por ejemplo, si compromete realizar una obra para la municipalidad, y otra
 
 Siguiendo la clásica división de los derechos civiles, conforme a la opinión del Dr. Jorge J. Llambías, decimos que estos derechos comprenden dos categorías:
 
-#### A. DERECHOS EXTRAPATRIMONIALES
+#### ==A. DERECHOS EXTRAPATRIMONIALES==
 Significa que son derechos que **no tienen valor económico**. Estos derechos comprenden:
 
 **a) Los derechos a la personalidad**: se refieren a la persona considerada en sí misma y sin los cuales no la podemos concebir. Ejemplo: el derecho al nombre, al domicilio, a la capacidad.
@@ -208,7 +210,7 @@ Cabe aclarar que cuando se trate de imagen de personas fallecidas, el consentimi
 
 **f) Los derechos de familia**: son los que se confieren al titular por su carácter de miembro de una familia. Ej.: el derecho a la patria potestad, los derechos que confiere la ley de matrimonio civil, el derecho a asistencia.
 
-#### B. DERECHOS PATRIMONIALES
+#### ==B. DERECHOS PATRIMONIALES==
 Son aquellos que podemos valorar en una suma de dinero; es decir, tienen **valor económico**. Los podemos clasificar en:
 
 **a) Los Derechos Reales**: son aquellos que tienen las personas directamente sobre las cosas. Establecen un vínculo jurídico entre una persona (sujeto de derecho) y una cosa. Ejemplo: el derecho de dominio o de propiedad, por el cual una persona podrá usar y gozar y exigir de los demás el respeto de su derecho.
