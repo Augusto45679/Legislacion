@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/3Persona juridica.md",
+                "file": "Clases/2026-03-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Persona juridica"
+              "title": "2026-03-17"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -189,27 +189,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "0014c9bb22c1bf4e",
+  "active": "bfb51b0268e17314",
   "lastOpenFiles": [
-    "Teoria/1Norma juridica.md",
+    "Clases/2026-03-10.md",
+    "Clases/2026-03-17.md",
     "Teoria/3Persona juridica.md",
+    "Images/Pasted image 20260317211211.png",
+    "Images/Pasted image 20260317210911.png",
+    "Images",
     "Teoria/2Persona.md",
+    "Teoria/1Norma juridica.md",
     "IA_Generated/2026-03-13 norma juridica DeepSeek.md",
     "IA_Generated/2026-03-13 norma juridica claude.md",
     "Teoria/1Persona.md",
     "IA_Generated",
     "Apuntes/11Norma Juridica.md",
     "Apuntes/1Persona.md",
-    "Clases/2026-03-10.md",
     "Images/Pasted image 20260311121808.png",
     "Images/asd1.png",
     "Teoria/Persona.md",
