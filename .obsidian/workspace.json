@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/Persona juridica VS humana.md",
+                "file": "Teoria/2Persona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Persona juridica VS humana"
+              "title": "2Persona"
             }
           }
         ],
@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -203,21 +203,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "f5aebc82c66597e6",
   "lastOpenFiles": [
-    "Teoria/3Persona juridica.md",
-    "Teoria/Persona juridica VS humana.md",
-    "Teoria/2Persona.md",
     "Teoria/1Norma juridica.md",
+    "Teoria/Persona juridica VS humana.md",
+    "Teoria/3Persona juridica.md",
+    "Teoria/2Persona.md",
     "Clases/2026-03-10.md",
     "Clases/2026-03-17.md",
     "Images/Pasted image 20260317211211.png",

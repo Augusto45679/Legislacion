@@ -95,7 +95,7 @@ El Código Civil y Comercial incorpora como derechos extrapatrimoniales (sin con
 - **Capacidad de derecho:** Aptitud para adquirir derechos y contraer obligaciones por el solo hecho de ser persona, independientemente de si se actúa por sí o por un tercero.
 - **Capacidad de ejercicio (o de obrar):** Aptitud para adquirir y ejercer derechos y obligaciones por sí mismo.
 
-La capacidad es un atributo inherente a la persona. Su reconocimiento guarda relación con el respeto a la dignidad y libertad personal.
+> La capacidad es un atributo inherente a la persona. Su reconocimiento guarda relación con el respeto a la dignidad y libertad personal.
 
 **Incapacidades:** Son la falta de aptitud para ser titular de derechos (incapacidad de derecho) o para ejercerlos (incapacidad de ejercicio).
 
